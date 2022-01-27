@@ -8,7 +8,10 @@
 * delete any task, using the mouse or keyboard.
 * edit any task, using the mouse or keyboard.
 * view a specific subset of tasks: All tasks, only the active task, or only the completed tasks.
-* We'll tackle these stories one-by-one.
+
+## adding more latter:
+
+* Progress bar
 
 # Getting Started with Create React App
 
